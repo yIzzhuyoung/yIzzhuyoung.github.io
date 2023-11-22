@@ -1,3 +1,5 @@
+http://example.com/2023/11/22/forgotten/
 http://example.com/2023/11/19/My-New-Post/
 http://example.com/
 http://example.com/tags/Daily/
+http://example.com/tags/daily/
