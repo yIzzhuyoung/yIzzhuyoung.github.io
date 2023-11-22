@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2023-11-22T09:03:49.529Z</updated>
+  <updated>2023-11-22T09:06:32.415Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://example.com/2023/11/22/forgotten/"/>
     <id>http://example.com/2023/11/22/forgotten/</id>
     <published>2023-11-22T08:53:30.000Z</published>
-    <updated>2023-11-22T09:03:49.529Z</updated>
+    <updated>2023-11-22T09:06:32.415Z</updated>
     
     <content type="html"><![CDATA[<p>打开文档开始编写，才感觉有很多呼之欲出的话是无由头的抱怨与呻吟，敲起键盘又觉得挖掘自己这件事又累又无成效。让这次的编写作为一次试水，看看能否呈现。</p>]]></content>
     
@@ -35,7 +35,7 @@
     
     
     
-    <category term="daily" scheme="http://example.com/tags/daily/"/>
+    <category term="Daily" scheme="http://example.com/tags/Daily/"/>
     
   </entry>
   
